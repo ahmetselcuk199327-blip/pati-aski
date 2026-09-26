@@ -1,7 +1,7 @@
 {
-  "name": "Pati Aşkı 🐾",
-  "short_name": "Pati Aşkı",
-  "description": "Kedileri besle, tara, sarıl. Sevgin büyüdükçe eve yeni dostlar geliyor.",
+  "name": "Pati Askı 🐾",
+  "short_name": "Pati Askı",
+  "description": "Cennet icin kedi oyunu - besle, oynat, sev.",
   "lang": "tr",
   "start_url": "./index.html",
   "scope": "./",
@@ -10,7 +10,17 @@
   "background_color": "#1b1230",
   "theme_color": "#2a1b3d",
   "icons": [
-    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
   ]
 }
